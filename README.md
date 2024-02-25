@@ -52,8 +52,8 @@ We welcome contributions to DocAI! If you have suggestions for improvements or b
 
 ## License
 
-DocAI is open-source software licensed under the MIT license.
+DocAI is open-source software.
 
 ## Contact
 
-For any questions or feedback, please contact us at [email@example.com](mailto:email@example.com).
+For any questions or feedback, please contact us at docai@gmail.com.
