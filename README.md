@@ -46,14 +46,6 @@ DocAI is a comprehensive solution designed to streamline the documentation proce
    - Select a consultation to generate the SOAP note by passing the transcript to the ML model's API.
    - Review and edit the generated SOAP note as needed.
 
-## Contributing
-
-We welcome contributions to DocAI! If you have suggestions for improvements or bug fixes, please feel free to fork the repository and submit a pull request.
-
-## License
-
-DocAI is open-source software.
-
 ## Contact
 
 For any questions or feedback, please contact us at docai@gmail.com.
