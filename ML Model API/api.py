@@ -21,7 +21,7 @@ app.add_middleware(
 # async def read_root():
 #     return {"message": "Hello, world!"}
 
-GOOGLE_API_KEY = "AIzaSyAt9mpLEfwKCro5h2OLMaFRKeC3CYv3vMI"  
+GOOGLE_API_KEY = "Enter your token"  
 genai.configure(api_key=GOOGLE_API_KEY)
 modelAI = genai.GenerativeModel('gemini-pro')
 
